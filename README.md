@@ -30,7 +30,7 @@ Android (Java & XML)
 Firebase Authentication (for login & session management)
 Firebase Realtime Database (to store relatives' contact details)
 Google Maps API (for fetching user location)
-WhatsApp API (to send emergency messages)
+WhatsApp Intent API (to send emergency messages)
 Email API (to send emergency alerts)
 
 Installation & Setup 🚀

@@ -35,8 +35,8 @@ Email API (to send emergency alerts)
 
 Installation & Setup 🚀
 
-git clone https://github.com/your-username/NaariRakshak.git
-cd Women-Healthcare-App
+git clone https://github.com/akashgaikwad-cmd/NaariRakshak.git
+cd NaariRakshak
 Open in Android Studio
 Add Firebase Configuration
 Go to Firebase Console → Create a new project.
